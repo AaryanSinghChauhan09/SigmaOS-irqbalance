@@ -3,7 +3,7 @@ name = "SigmaOS-irqbalance"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "irqbalance component"
+description = "SigmaOS SigmaOS-irqbalance component"
 upstream = []
 
 [contract]
